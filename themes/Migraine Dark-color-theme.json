@@ -1,7 +1,7 @@
 {
   "name": "Migraine Dark",
   "colors": {
-    "activityBar.background": "#282828",
+    "activityBar.background": "#1D1D1D",
     "activityBar.foreground": "#ffffffdd",
     "activityBarBadge.background": "#EE6A6Fcc",
     "activityBarBadge.foreground": "#ffffffdd",
