@@ -1,0 +1,31 @@
+{
+  "name": "migraine-dark",
+  "displayName": "Migraine Dark",
+  "description": "Calm theme based on Mariana",
+  "version": "0.0.1",
+  "maintainers": [
+    "Nika Tal nika.tal@icloud.cim"
+  ],
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Migraine Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Migraine Dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talovski/migraine-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/talovski/migraine-dark/issues"
+  }
+}
