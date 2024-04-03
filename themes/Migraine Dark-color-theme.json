@@ -10,6 +10,8 @@
     "quickInput.foreground": "#8F8F8F",
     "icon.foreground": "#808080",
     "activityBarTop.inactiveForeground": "#808080",
+    "editorIndentGuide.activeBackground1": "#7A7A7C",
+    "editorIndentGuide.background1": "#373737",
     "activityBarTop.foreground": "#C6C6C7",
     "tab.activeBackground": "#3A3A3A",
     "badge.foreground": "#ffffffdd",
