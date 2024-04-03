@@ -47,7 +47,6 @@
     "editorBracketMatch.background": "#5fb4b44c",
     "editorBracketMatch.border": "#5FB4B400",
     "editorCursor.foreground": "#F6AE59",
-    "editorError.border": "#00000000",
     "editorError.foreground": "#EE6A6F",
     "editorGroup.border": "#00000040",
     "editorGroup.dropBackground": "#282828",
@@ -373,8 +372,8 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "underline",
-        "foreground": "#5fb3b3"
+        // "fontStyle": "underline",
+        "foreground": "#6699cc"
       }
     },
     {
