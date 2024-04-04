@@ -80,7 +80,6 @@
     "editorSuggestWidget.background": "#2A2A2D",
     "editorSuggestWidget.border": "#ff000000",
     "editorSuggestWidget.highlightForeground": "#F6AE5A",
-    "editorWarning.border": "#00000000",
     "editorWarning.foreground": "#FAB763",
     "editorWhitespace.foreground": "#f4f4f430",
     "editorWidget.background": "#282828",
